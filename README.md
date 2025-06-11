@@ -1,2 +1,1 @@
-# duo-studio
-An amazing studio website
+### [live site](https://saifullah72437.github.io/duo-studio/)
